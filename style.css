@@ -1,0 +1,12 @@
+body {
+    background-color:black ;
+    font-size: 18px;
+  }
+  
+  .content {
+    border-radius: 10px;
+    max-width: 750px;
+    margin: auto;
+    background: white;
+    padding: 15px;
+  }
